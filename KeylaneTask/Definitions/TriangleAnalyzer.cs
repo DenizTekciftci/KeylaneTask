@@ -78,7 +78,7 @@ namespace KeylaneTask.Definitions
         /// <param name="constraint"></param>
         public List<Triangle> SubsetWithMaxAreaGivenConstraint(List<Triangle> triangles, double constraint)
         {
-            var consideredTriangles = triangles.Where(IsValid).ToList();
+            var consideredTriangles = triangles.Where(t => GetTriangleType(t) != TriangleType.Invalid).ToList();
             
             // Only keep valid triangles
             for (int i = 0; i < consideredTriangles.Count; i++)
