@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ce007fb7_002Deead_002D4c6e_002D91a8_002Df52eaafa2108/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Triangle_WithArea6 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject1.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d21640a5_002De330_002D4039_002Db6f9_002D02ddfdbbf639/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TriangleSubset_SameTriangle_Returns2Triangles" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject.TriangleAnalyzerUnitTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f6abe8d8_002D7c22_002D4299_002Dab5b_002D069f3a9254c3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Triangle_WithArea6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject1.UnitTest1.Triangle_WithArea6&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject1.UnitTest1.Create3Triangle_ShouldOnlyInsert1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject1.UnitTest1.EquilateralTriangle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject1.UnitTest1.IsoscelesTriangle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject1.UnitTest1.InvalidTriangle_SumOfSidesTooLarge&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject1.UnitTest1.InvalidTriangle_NegativeValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject1.UnitTest1.ScaleneTriangle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::1535DECF-2240-4894-A6D7-BE4A8449B066::net6.0::TestProject1.UnitTest1.TriangleWithArea6&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

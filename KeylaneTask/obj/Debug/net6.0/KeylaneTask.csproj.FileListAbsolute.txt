@@ -1,0 +1,15 @@
+C:\source\Random\TriangleAnalyzer\KeylaneTask\bin\Debug\net6.0\KeylaneTask.exe
+C:\source\Random\TriangleAnalyzer\KeylaneTask\bin\Debug\net6.0\KeylaneTask.deps.json
+C:\source\Random\TriangleAnalyzer\KeylaneTask\bin\Debug\net6.0\KeylaneTask.runtimeconfig.json
+C:\source\Random\TriangleAnalyzer\KeylaneTask\bin\Debug\net6.0\KeylaneTask.dll
+C:\source\Random\TriangleAnalyzer\KeylaneTask\bin\Debug\net6.0\KeylaneTask.pdb
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\KeylaneTask.csproj.AssemblyReference.cache
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\KeylaneTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\KeylaneTask.AssemblyInfoInputs.cache
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\KeylaneTask.AssemblyInfo.cs
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\KeylaneTask.csproj.CoreCompileInputs.cache
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\KeylaneTask.dll
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\refint\KeylaneTask.dll
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\KeylaneTask.pdb
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\KeylaneTask.genruntimeconfig.cache
+C:\source\Random\TriangleAnalyzer\KeylaneTask\obj\Debug\net6.0\ref\KeylaneTask.dll

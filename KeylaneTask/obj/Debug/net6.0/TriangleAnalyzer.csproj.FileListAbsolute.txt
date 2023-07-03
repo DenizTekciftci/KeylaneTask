@@ -1,0 +1,15 @@
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\TriangleAnalyzer.csproj.AssemblyReference.cache
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\TriangleAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\TriangleAnalyzer.AssemblyInfoInputs.cache
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\TriangleAnalyzer.AssemblyInfo.cs
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\TriangleAnalyzer.csproj.CoreCompileInputs.cache
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\bin\Debug\net6.0\TriangleAnalyzer.exe
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\bin\Debug\net6.0\TriangleAnalyzer.deps.json
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\bin\Debug\net6.0\TriangleAnalyzer.runtimeconfig.json
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\bin\Debug\net6.0\TriangleAnalyzer.dll
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\bin\Debug\net6.0\TriangleAnalyzer.pdb
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\TriangleAnalyzer.dll
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\refint\TriangleAnalyzer.dll
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\TriangleAnalyzer.pdb
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\TriangleAnalyzer.genruntimeconfig.cache
+C:\source\Random\TriangleAnalyzer\TriangleAnalyzer\obj\Debug\net6.0\ref\TriangleAnalyzer.dll
